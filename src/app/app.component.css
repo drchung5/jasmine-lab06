@@ -1,0 +1,8 @@
+* {margin: 0.5em }
+div { width: 25em }
+blockquote, footer, header { width: 100% }
+footer { text-align: right }
+header{ 
+  text-align: center;
+  font-size: 1.5em;
+ }
